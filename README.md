@@ -1,5 +1,5 @@
 # **Real-Time Chat Application**
-
+ 
 This is a **real-time chat application** built with **Node.js**, **Express**, and **Socket.IO**. The app allows users to send messages in a live chat environment. The application runs on two different servers (Server 1 and Server 2), and each server has a distinct color to differentiate them.
 
 ## **Features**
