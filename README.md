@@ -7,7 +7,7 @@ This is a **real-time chat application** built with **Node.js**, **Express**, an
 - **Dynamic color** for each server (Server 1 has blue, Server 2 has pink).
 - Users can send messages by clicking the **Send** button or pressing the **Enter** key.
 - **Multiple users** can connect and chat at the same time.
-
+    
 ## **Technologies Used**
 - **Node.js**: Server-side JavaScript runtime.
 - **Express**: Web framework for Node.js.
